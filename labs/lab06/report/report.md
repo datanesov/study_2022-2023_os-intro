@@ -2,7 +2,7 @@
 ## Front matter
 title: "Лабораторная работа №6"
 subtitle: "НБИбд-01-22"
-author: "Атанесов Александр Николаевич"
+author: "Атанесов Даниил Николаевич"
 
 ## Generic otions
 lang: ru-RU
